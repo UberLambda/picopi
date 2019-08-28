@@ -1,6 +1,8 @@
-Pico TTS, with Raspberry Pi support and fixes to make it run on 64-bit platforms.
+# picopi
+The Pico text-to-speech engine, with Raspberry Pi support and fixes to make it run on 64-bit platforms.
 
-# Original README
+* * * * *
+#### Original README
 
 Pico TTS for Raspberry Pi
 
